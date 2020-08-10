@@ -1,0 +1,28 @@
+{
+  "name": "BCAntenna",
+  "version": "1.0.0",
+  "description": "yum",
+  "main": "bcmacro-api.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -c jsdoc.json -R index.md -t ./node_modules/ink-docstrap/template antenna.user.js && echo antenna.boxcrittersmods.ga > ./docs/CNAME"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boxcritters/Antenna.git"
+  },
+  "keywords": [],
+  "author": "TumbleGamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boxcritters/Antenna/issues"
+  },
+  "homepage": "https://github.com/boxcritters/Antenna#readme",
+  "devDependencies": {
+    "ink-docstrap": "^1.3.2",
+    "jsdoc": "^3.6.4"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.38"
+  }
+}
