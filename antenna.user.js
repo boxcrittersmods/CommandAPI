@@ -77,7 +77,7 @@ class Command {
 	exec(argc,argv){}
 
 	/**
-	 * Displays Help info
+	 * Displays Help info in console or dialogue (haven't decided)
 	 * @param {Number} argc Argument Count
 	 * @param {Array.<String>} argv Argument Values
 	 */
