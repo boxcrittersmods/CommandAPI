@@ -4,7 +4,7 @@
 	},
 	"plugins": ["plugins/markdown"],
 	"templates": {
-		"systemName": "Antenna",
+		"systemName": "CommandAPI",
 		"copyright": "Copyright 2019-<script>document.write(new Date().getFullYear());</script> The Box Critters Modding Community.",
 		"search": false,
 		"includeDate": false

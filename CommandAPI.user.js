@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Antenna
+// @name         Name TBA
 // @description  Command API
 // @author       Tumble
 // @version      0.0.1.1
@@ -8,7 +8,7 @@
 // @require      https://github.com/SArpnt/joinFunction/raw/master/script.js
 // @require      https://github.com/SArpnt/EventHandler/raw/master/script.js
 // @require      https://github.com/SArpnt/cardboard/raw/master/script.user.js
-// @require      file:///E:/dev/boxcritters/mods/antenna/message.js
+// @require      file:///E:/dev/boxcritters/mods/commandapi/message.js
 // @match        https://boxcritters.com/play/
 // @match        https://boxcritters.com/play/?*
 // @match        https://boxcritters.com/play/#*
@@ -38,9 +38,9 @@
   */
 
 /**
-* @module Antenna
+* @module CommandAPI
 */
-var antenna = {
+var commandapi = {
 	/**
 	 * @member
 	 * @type {Array.<CommandGroup>}
@@ -94,7 +94,7 @@ var registerCommandGroup = (mod)=>{
 		commands: new Object
 	}
 	var modName = mod.name||getModName(mod)||mod;
-	antenna.commandGroups[modName] = group;
-	return antenna.commandGroups[modName];
+	commandapi.commandGroups[modName] = group;
+	return commandapi.commandGroups[modName];
 }
-antenna.registerCommandGroup = registerCommandGroup;
+commandapi.registerCommandGroup = registerCommandGroup;

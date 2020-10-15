@@ -1,6 +1,6 @@
-# Antenna
+# CommandAPI
 
-[![Antenna](https://api.boxcrittersmods.ga/button/antenna)](https://boxcrittersmods.ga/mods/antenna/)
+[![CommandAPI](https://api.boxcrittersmods.ga/button/commandapi)](https://boxcrittersmods.ga/mods/commandapi/)
 
 An API for creating buttons and keybinds.
 
@@ -8,7 +8,7 @@ An API for creating buttons and keybinds.
 
 ### Prerequisites
 
-To use Antenna you fill first need to install a userscript manager.
+To use CommandAPI you fill first need to install a userscript manager.
 
 * Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
 * Firefox: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
@@ -23,7 +23,7 @@ To use Antenna you fill first need to install a userscript manager.
 
 ### Installing
 
-Install us via the [BCMC Website](https://boxcrittersmods.ga/mods/antenna/).
+Install us via the [BCMC Website](https://boxcrittersmods.ga/mods/commandapi/).
 
 ## Usage
 
@@ -35,15 +35,15 @@ TBA
 
 ### API Reference
 
-All documentation lives [here](https://docs.boxcrittersmods.ga/antenna/)
+All documentation lives [here](https://docs.boxcrittersmods.ga/commandapi/)
 
 ### Examples
 
-View some simple usage examples [here](https://github.com/boxcritters/antenna/tree/master/test).
+View some simple usage examples [here](https://github.com/boxcritters/commandapi/tree/master/test).
 
 ## Licensing
 
-All the code of this project is licensed under the [Apache License version 2.0](https://github.com/boxcritters/antenna/blob/master/LICENSE) (Apache-2.0).
+All the code of this project is licensed under the [Apache License version 2.0](https://github.com/boxcritters/commandapi/blob/master/LICENSE) (Apache-2.0).
 
 ```license
 	Copyright 2020 TumbleGamer <tumblegamer@gmail.com>
