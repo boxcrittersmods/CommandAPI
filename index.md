@@ -1,6 +1,6 @@
 # CommandAPI
 
-[![CommandAPI](https://api.boxcrittersmods.ga/button/commandapi)](https://boxcrittersmods.ga/mods/commandapi/)
+[![CommandAPI](https://api.bcmc.ga/button/commandapi)](https://bcmc.ga/mods/commandapi/)
 
 An API for creating buttons and keybinds.
 
@@ -23,7 +23,7 @@ To use CommandAPI you fill first need to install a userscript manager.
 
 ### Installing
 
-Install us via the [BCMC Website](https://boxcrittersmods.ga/mods/commandapi/).
+Install us via the [BCMC Website](https://bcmc.ga/mods/commandapi/).
 
 ## Usage
 
